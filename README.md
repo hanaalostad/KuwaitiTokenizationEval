@@ -1,10 +1,12 @@
 # Kuwaiti Arabic Tokenization Evaluation
 
-This repository contains the source code and scripts used to create and prepare the Kuwaiti Arabic (KA) translations used in the study:
+## Abstract
 
-**Evaluating LLM Tokenization Efficiency on Kuwaiti Dialect, MSA and Other Arabic Dialects**
+This repository supports the study **“Evaluating LLM Tokenization Efficiency on Kuwaiti Dialect, MSA and Other Arabic Dialects.”**
 
-The study evaluates tokenization efficiency for Kuwaiti Arabic (KA), Modern Standard Arabic (MSA), and other Arabic dialects using semantically aligned sentences.
+The study evaluates how efficiently twelve LLM tokenizers process Kuwaiti Arabic (KA) compared with Modern Standard Arabic (MSA) and other Arabic dialects. The evaluation uses semantically aligned sentences derived from MADAR Corpus-6, together with KA translations created through machine-assisted translation and native-speaker review.
+
+The repository provides the source code and scripts used to create and prepare the KA translations. The original MADAR data and the resulting KA translations are not redistributed in this repository.
 
 ## Data Sources
 
